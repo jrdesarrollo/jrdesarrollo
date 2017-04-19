@@ -1,7 +1,6 @@
 <?php 
 require 'functions.php';
-?>
-<!doctype html>
+?><!doctype html>
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
