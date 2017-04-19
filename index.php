@@ -178,7 +178,7 @@ require 'functions.php';
 						
 						<li><span>Git</span>
 							<div class="progress">
-								<div class="determinate" style="width: 22%"></div>
+								<div class="determinate" style="width: 45%"></div>
 							</div>
 						</li>   
 					</ul>
